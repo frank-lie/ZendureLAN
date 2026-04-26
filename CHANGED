@@ -1,3 +1,3 @@
 ZendureLAN
-v1.0.1 - 26.04.2026 DevStateIcon, Timestamps als Klartext, remainOutTime als DD:HH:MM
-v1.0.0 - 24.03.2026 Zendure Rest API aus https://github.com/Zendure/zenSDK/blob/main/README.md
+- DevStateIcon & Timestamps als Klartext, remainOutTime als DD:HH:MM
+- Zendure Rest API aus https://github.com/Zendure/zenSDK/blob/main/README.md
