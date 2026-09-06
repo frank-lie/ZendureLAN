@@ -1,3 +1,5 @@
 ZendureLAN
+- Autodetect possible options for set-cmd
+- Individual limits for different models
 - DevStateIcon & Timestamps als Klartext, remainOutTime als DD:HH:MM
 - Zendure Rest API aus https://github.com/Zendure/zenSDK/blob/main/README.md
